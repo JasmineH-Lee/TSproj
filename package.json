@@ -1,0 +1,22 @@
+{
+  "name": "tsproj",
+  "version": "1.0.0",
+  "description": "typescript study proj",
+  "main": "./dist/main.js",
+  "scripts": {
+    "test": "test it"
+  },
+  "keywords": [
+    "hong"
+  ],
+  "author": "Jasmine Lee",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^16.2.2",
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^5.0.0-alpha.3",
+    "tsify": "^4.0.0",
+    "typescript": "^2.9.2",
+    "vinyl-source-stream": "^2.0.0"
+  }
+}
